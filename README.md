@@ -1,2 +1,2 @@
 # casinomucho.com-launcher
-Chrome Extension for casinpmucho.com
+Chrome Extension for <a href="https://casinomucho.com">casinomucho.com</a>
